@@ -5,7 +5,7 @@ int main(){
     int n;
     scanf("%d",&n);
 
-    //question 2
+    //question 2 not complete
     /*
          *
         __
@@ -217,7 +217,7 @@ int main(){
             
     // }
 
-    //question 6 part 2
+    //question 6 part 2 not complete
     //difference to 2 given dates in days,months,years;
 
     //first date
@@ -262,7 +262,7 @@ int main(){
 // printf("Differnce is %d years %d months %d days",yyyy,mm,dd);
     
 
-    //question 7
+    //question 7 -not
     //1,2,5,10,20,50,100,500
     // int n; 
     // scanf("%d",&n);
